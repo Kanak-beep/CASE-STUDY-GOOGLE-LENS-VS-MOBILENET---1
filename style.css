@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+.test_image_and_result{
+    color: crimson;
+    background-color: gray;
+    border-radius: 0px;
+    border-style: none;
+    border-color: black;
+}
+
+.img-responsive{
+    width: 500px;
+    height: 400px;
+}
+
+span{
+    color: lightcoral;
+}
